@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "dop_project",
+			"path": ".."
+		},
+		{
+			"name": "firtst_project",
+			"path": "..\\..\\firtst_project"
+		}
+	],
+	"settings": {}
+}
